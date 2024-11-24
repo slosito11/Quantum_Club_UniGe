@@ -28,3 +28,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+View the website at : https://slosito11.github.io/Quantum_Club_UniGe/future.html
